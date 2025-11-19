@@ -4,11 +4,19 @@ Personal sandbox for working through the official React and Next.js learning pat
 
 ## Learn React (official docs)
 
-- Completed all chapters of the `https://nextjs.org/learn/react-foundations` course (commits cover chapters 9 & 10).
-- Code in this repo up to now reflects experiments and notes from that course.
+- ✅ Completed all chapters of the `https://nextjs.org/learn/react-foundations` course (commits cover chapters 9 & 10).
+- Code in this repo reflects experiments and notes from that course.
 
-## Next up: Learn Next.js
+## Learn Next.js (official docs)
 
-- Reusing the same repo while kicking off the `https://nextjs.org/learn/dashboard-app` curriculum.
-- Expect major resets/overhauls as the Next.js lessons progress.
-- README will evolve to track milestones, resources, and any gotchas along the way.
+- ✅ Completed all chapters of the `https://nextjs.org/learn/dashboard-app` course (15/15).
+- Built a full-stack dashboard application with Next.js App Router, authentication, and database integration.
+
+### Live Demo
+
+🚀 **Live Application**: https://learn-next-js-roan-beta.vercel.app/
+
+**Test Credentials:**
+
+- **Email**: `user@nextmail.com`
+- **Password**: `123456`
