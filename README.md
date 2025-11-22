@@ -25,5 +25,9 @@ Personal sandbox for working through the official React and Next.js learning pat
 
 ### Pages Router Course
 
-- 🚧 In progress: `https://nextjs.org/learn/pages-router/create-nextjs-app-setup`
-- Learning Next.js Pages Router fundamentals and building a blog application.
+- ✅ Completed all chapters of the `https://nextjs.org/learn/pages-router/create-nextjs-app-setup` course (46/46).
+- Built a blog application using Next.js Pages Router with static page generation and server-side rendering.
+
+**Live Demo:**
+
+🚀 **Live Application**: https://learn-next-js-payb.vercel.app/
